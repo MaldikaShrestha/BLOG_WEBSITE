@@ -5,4 +5,5 @@ pillow==11.2.1
 python-dotenv==1.2.1
 requests==2.32.5
 django-crispy-forms==2.6
+crispy-bootstrap4==2023.1
 psycopg2-binary==2.9.9   # Optional, only if you switch to PostgreSQL
